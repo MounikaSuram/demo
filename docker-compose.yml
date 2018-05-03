@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  dotnetmvc:
+    image: dotnetmvc
+    build:
+      context: .
+      dockerfile: DotNetMVC\Dockerfile
