@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetMVC", "DotNetMVC\DotN
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{193B5649-D10E-4A0D-A7A7-FD85D33780DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreTest", "DotNetCoreTest\DotNetCoreTest.csproj", "{16BD90D1-D4E8-489D-8DC7-0DE87E07F80A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{193B5649-D10E-4A0D-A7A7-FD85D33780DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{193B5649-D10E-4A0D-A7A7-FD85D33780DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{193B5649-D10E-4A0D-A7A7-FD85D33780DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BD90D1-D4E8-489D-8DC7-0DE87E07F80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BD90D1-D4E8-489D-8DC7-0DE87E07F80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BD90D1-D4E8-489D-8DC7-0DE87E07F80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BD90D1-D4E8-489D-8DC7-0DE87E07F80A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
